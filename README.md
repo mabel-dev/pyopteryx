@@ -1,2 +1,2 @@
 # pyopteryx
-Python client for Opteryx remote API
+Python client for Opteryx and Tarchia remote APIs
